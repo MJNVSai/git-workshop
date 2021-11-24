@@ -38,3 +38,11 @@
 **word hyper link**
 
 [google](https://github.com/MJNVSai)
+
+**tabular format**
+
+Name|Roll
+----|----
+M.sai|208W1A12A0
+Rizwan|208w1a199
+N.Ajay|208w1a12a1
