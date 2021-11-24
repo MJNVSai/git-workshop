@@ -15,6 +15,7 @@
 - [x] #739
 - [ ] https://github.com/MJNVSai
 - [ ] https://github.com/rizwanrockzz
+- [ ] https://training.github.com/downloads/github-git-cheat-sheet/
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
 **ordered lists**
